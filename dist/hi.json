@@ -1,0 +1,344 @@
+{
+  "slug": "awesome-ia-contabilidade",
+  "language": "hi",
+  "title": "Awesome IA na contabilidade",
+  "description": "contadores के लिए AI: असिस्टेंट, प्राइवेसी, CFC के नियम और Receita, eSocial व Simples के आधिकारिक स्रोत जाँचने के लिए।",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI असिस्टेंट",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iacont-chatgpt",
+          "description": "OpenAI का असिस्टेंट, मुफ़्त और पेड प्लान के साथ।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iacont-claude",
+          "description": "Anthropic का असिस्टेंट, मुफ़्त और पेड प्लान के साथ।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iacont-copilot",
+          "description": "Microsoft का असिस्टेंट, जो Windows और Office के अंदर भी है।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iacont-gemini",
+          "description": "Google का असिस्टेंट, जो Gmail और Google Docs के अंदर भी है।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI में प्राइवेसी",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iacont-anthropic-onde-mudar-o-treino",
+          "description": "Claude पर आपकी बातचीत का इस्तेमाल मॉडल को ट्रेन करने में न हो, यह कैसे रोकें।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iacont-google-atividade-do-gemini",
+          "description": "Gemini की एक्टिविटी हिस्ट्री कैसे बंद करें और इससे क्या बदलता है।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iacont-microsoft-controles-de-privacidad",
+          "description": "Copilot की प्राइवेसी और ट्रेनिंग कंट्रोल कहाँ मिलते हैं।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iacont-openai-controles-de-dados",
+          "description": "ChatGPT पर बातचीत का इस्तेमाल मॉडल को ट्रेन करने में न हो, यह कैसे रोकें।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iacont-whatsapp-privacidade",
+          "description": "WhatsApp प्राइवेसी के बारे में क्या कहता है, जिसमें Meta AI से बात करने पर भी शामिल है।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-cfc",
+      "title": "पेशे के नियम",
+      "items": [
+        {
+          "name": "CFC e COAF",
+          "url": "https://cfc.org.br/coaf/",
+          "link": "https://go.mymarketing.click/iacont-cfc-e-coaf",
+          "description": "COAF को की गई सूचनाओं पर CFC का पेज।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "NBC PG 01, o Código de Ética",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.pdf",
+          "link": "https://go.mymarketing.click/iacont-nbc-pg-01-o-codigo-de-etica",
+          "description": "चार्टर्ड अकाउंटेंट के लिए पेशेवर आचार संहिता।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CFC 1.640/2021",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1640.pdf",
+          "link": "https://go.mymarketing.click/iacont-resolucao-cfc-1-640-2021",
+          "description": "अकाउंटेंट्स के लिए मनी लॉन्ड्रिंग रोकथाम पर CFC के नियम।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "जांचने के लिए आधिकारिक स्रोत",
+      "items": [
+        {
+          "name": "Agenda Tributária",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro",
+          "link": "https://go.mymarketing.click/iacont-agenda-tributaria",
+          "description": "इस महीने की समय सीमाएँ, Receita Federal द्वारा प्रकाशित।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Certificação digital no ITI",
+          "url": "https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/certificacao-digital",
+          "link": "https://go.mymarketing.click/iacont-certificacao-digital-no-iti",
+          "description": "डिजिटल सर्टिफिकेट पर ITI के जवाब।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-123-2006",
+          "description": "Simples Nacional और माइक्रो एंटरप्राइज़ का कानून।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-214-2025",
+          "description": "उपभोग पर टैक्स सुधार का कानून: IBS, CBS और Imposto Seletivo।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Orientação do eSocial",
+          "url": "https://www.gov.br/esocial/pt-br/documentacao-tecnica/manuais/mos-s-1-3-consolidada-ate-a-no-s-1-3-11-2026-retificada.pdf",
+          "link": "https://go.mymarketing.click/iacont-manual-de-orientacao-do-esocial",
+          "description": "वेतन और श्रम घटनाओं के लिए eSocial का मैनुअल।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iacont-mei-perguntas-frequentes",
+          "description": "सूक्ष्म उद्यमी (MEI) पर आधिकारिक जवाब।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Procuração eletrônica no e-CAC",
+          "url": "https://www.gov.br/pt-br/servicos/cadastrar-ou-cancelar-procuracao-para-acesso-ao-e-cac",
+          "link": "https://go.mymarketing.click/iacont-procuracao-eletronica-no-e-cac",
+          "description": "ग्राहक डिजिटल सर्टिफिकेट दिए बिना ऑफ़िस को पावर ऑफ़ अटॉर्नी कैसे दे।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iacont-tabelas-do-imposto-de-renda-2026",
+          "description": "Receita Federal पर वर्ष की IRPF कर तालिकाएँ।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "अकाउंटेंट्स के खिलाफ धोखाधड़ी",
+      "items": [
+        {
+          "name": "CFC: golpes com a Decore",
+          "url": "https://cfc.org.br/noticias/nao-caia-no-golpe-saiba-como-a-decore-tem-sido-utilizada-em-golpes-para-contadores/",
+          "link": "https://go.mymarketing.click/iacont-cfc-golpes-com-a-decore",
+          "description": "Decore का इस्तेमाल करके अकाउंटेंट्स के खिलाफ धोखाधड़ी पर CFC की चेतावनी।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "डेटा सुरक्षा",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iacont-lgpd",
+          "description": "Planalto पर संकलित पाठ के रूप में Lei Geral de Proteção de Dados (LGPD)।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iacont-anpd",
+          "description": "Autoridade Nacional de Proteção de Dados (ANPD), LGPD के गाइड और नियमों के साथ।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "किताब और किट",
+      "items": [
+        {
+          "name": "IA na contabilidade (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-livro",
+          "description": "O Novo Básico सीरीज़ का वॉल्यूम 8, जिसमें पेशे के कामों को असली AI से कैसे किया जाए और हर तथ्य के साथ स्रोत दिए गए हैं।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade/kit",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-o-kit-online",
+          "description": "तैयार प्रॉम्प्ट, जांच की चेकलिस्ट और किताब के स्रोत, साइट पर खुले हुए।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "slug": "awesome-ia-contabilidade",
+  "language": "vi",
+  "title": "Awesome IA na contabilidade",
+  "description": "IA para contadores: assistentes, privacidade, normas do CFC e as fontes da Receita, do eSocial e do Simples para conferir.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Trợ lý AI",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iacont-chatgpt",
+          "description": "Trợ lý của OpenAI, có gói miễn phí và gói trả phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iacont-claude",
+          "description": "Trợ lý của Anthropic, có gói miễn phí và gói trả phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iacont-copilot",
+          "description": "Trợ lý của Microsoft, cũng có trong Windows và Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iacont-gemini",
+          "description": "Trợ lý của Google, cũng có trong Gmail và Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Quyền riêng tư với AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iacont-anthropic-onde-mudar-o-treino",
+          "description": "Cách ngăn các cuộc trò chuyện của bạn trên Claude được dùng để huấn luyện mô hình.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iacont-google-atividade-do-gemini",
+          "description": "Cách tắt lịch sử hoạt động của Gemini và điều gì thay đổi khi đó.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iacont-microsoft-controles-de-privacidad",
+          "description": "Nơi có các điều khiển quyền riêng tư và huấn luyện của Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iacont-openai-controles-de-dados",
+          "description": "Cách ngăn các cuộc trò chuyện trên ChatGPT được dùng để huấn luyện mô hình.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iacont-whatsapp-privacidade",
+          "description": "WhatsApp nói gì về quyền riêng tư, kể cả khi trò chuyện với Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-cfc",
+      "title": "Quy định nghề nghiệp",
+      "items": [
+        {
+          "name": "CFC e COAF",
+          "url": "https://cfc.org.br/coaf/",
+          "link": "https://go.mymarketing.click/iacont-cfc-e-coaf",
+          "description": "Trang của CFC về các thông báo gửi tới COAF.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "NBC PG 01, o Código de Ética",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.pdf",
+          "link": "https://go.mymarketing.click/iacont-nbc-pg-01-o-codigo-de-etica",
+          "description": "Quy tắc đạo đức nghề nghiệp của kế toán.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CFC 1.640/2021",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1640.pdf",
+          "link": "https://go.mymarketing.click/iacont-resolucao-cfc-1-640-2021",
+          "description": "Quy định của CFC về phòng chống rửa tiền dành cho kế toán.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "Nguồn chính thức để đối chiếu",
+      "items": [
+        {
+          "name": "Agenda Tributária",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro",
+          "link": "https://go.mymarketing.click/iacont-agenda-tributaria",
+          "description": "Thời hạn trong tháng, do Receita Federal công bố.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Certificação digital no ITI",
+          "url": "https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/certificacao-digital",
+          "link": "https://go.mymarketing.click/iacont-certificacao-digital-no-iti",
+          "description": "Các câu trả lời của ITI về chứng chỉ số.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-123-2006",
+          "description": "Đạo luật Doanh nghiệp siêu nhỏ và Simples Nacional.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-214-2025",
+          "description": "Luật cải cách thuế tiêu dùng: IBS, CBS và Imposto Seletivo.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Orientação do eSocial",
+          "url": "https://www.gov.br/esocial/pt-br/documentacao-tecnica/manuais/mos-s-1-3-consolidada-ate-a-no-s-1-3-11-2026-retificada.pdf",
+          "link": "https://go.mymarketing.click/iacont-manual-de-orientacao-do-esocial",
+          "description": "Hướng dẫn eSocial cho bảng lương và sự kiện lao động.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iacont-mei-perguntas-frequentes",
+          "description": "Các câu trả lời chính thức về microempreendedor individual.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Procuração eletrônica no e-CAC",
+          "url": "https://www.gov.br/pt-br/servicos/cadastrar-ou-cancelar-procuracao-para-acesso-ao-e-cac",
+          "link": "https://go.mymarketing.click/iacont-procuracao-eletronica-no-e-cac",
+          "description": "Cách khách hàng ủy quyền cho văn phòng mà không giao chứng chỉ số.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iacont-tabelas-do-imposto-de-renda-2026",
+          "description": "Bảng thuế IRPF của năm, trên trang Receita Federal.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Lừa đảo nhắm vào kế toán",
+      "items": [
+        {
+          "name": "CFC: golpes com a Decore",
+          "url": "https://cfc.org.br/noticias/nao-caia-no-golpe-saiba-como-a-decore-tem-sido-utilizada-em-golpes-para-contadores/",
+          "link": "https://go.mymarketing.click/iacont-cfc-golpes-com-a-decore",
+          "description": "Cảnh báo của CFC về các vụ lừa đảo dùng Decore nhắm vào kế toán.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Bảo vệ dữ liệu",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iacont-lgpd",
+          "description": "Luật Bảo vệ Dữ liệu Cá nhân, bản tổng hợp trên trang của Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iacont-anpd",
+          "description": "Cơ quan Quốc gia Bảo vệ Dữ liệu, với hướng dẫn và quy định về LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Sách và bộ tài liệu",
+      "items": [
+        {
+          "name": "IA na contabilidade (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-livro",
+          "description": "Tập 8 của loạt O Novo Básico, với các công việc nghề nghiệp được làm bằng AI thực sự và mỗi dữ kiện đều có nguồn.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade/kit",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-o-kit-online",
+          "description": "Các câu lệnh có sẵn, danh sách những điều cần kiểm tra và nguồn tham khảo của sách, được mở trên trang web.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

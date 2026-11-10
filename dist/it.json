@@ -1,0 +1,344 @@
+{
+  "slug": "awesome-ia-contabilidade",
+  "language": "it",
+  "title": "Awesome IA na contabilidade",
+  "description": "IA per contabili: assistenti, privacy, norme del CFC e le fonti della Receita, dell'eSocial e del Simples da controllare.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Assistenti IA",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iacont-chatgpt",
+          "description": "L'assistente di OpenAI, con piano gratuito e a pagamento.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iacont-claude",
+          "description": "L'assistente di Anthropic, con piano gratuito e a pagamento.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iacont-copilot",
+          "description": "L'assistente di Microsoft, presente anche in Windows e Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iacont-gemini",
+          "description": "L'assistente di Google, presente anche in Gmail e Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Privacy nelle IA",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iacont-anthropic-onde-mudar-o-treino",
+          "description": "Come impedire che le tue conversazioni con Claude vengano usate per addestrare il modello.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iacont-google-atividade-do-gemini",
+          "description": "Come disattivare la cronologia attività di Gemini e cosa cambia.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iacont-microsoft-controles-de-privacidad",
+          "description": "Dove si trovano i controlli di privacy e di addestramento di Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iacont-openai-controles-de-dados",
+          "description": "Come impedire che le conversazioni con ChatGPT vengano usate per addestrare il modello.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iacont-whatsapp-privacidade",
+          "description": "Cosa dice WhatsApp sulla privacy, anche quando si parla con Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-cfc",
+      "title": "Norme della professione",
+      "items": [
+        {
+          "name": "CFC e COAF",
+          "url": "https://cfc.org.br/coaf/",
+          "link": "https://go.mymarketing.click/iacont-cfc-e-coaf",
+          "description": "La pagina del CFC sulle comunicazioni al COAF.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "NBC PG 01, o Código de Ética",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.pdf",
+          "link": "https://go.mymarketing.click/iacont-nbc-pg-01-o-codigo-de-etica",
+          "description": "Il Codice Etico Professionale del Contabile.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CFC 1.640/2021",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1640.pdf",
+          "link": "https://go.mymarketing.click/iacont-resolucao-cfc-1-640-2021",
+          "description": "Le regole del CFC sulla prevenzione del riciclaggio di denaro per i contabili.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "Fonti ufficiali da consultare",
+      "items": [
+        {
+          "name": "Agenda Tributária",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro",
+          "link": "https://go.mymarketing.click/iacont-agenda-tributaria",
+          "description": "Le scadenze del mese, pubblicate dalla Receita Federal.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Certificação digital no ITI",
+          "url": "https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/certificacao-digital",
+          "link": "https://go.mymarketing.click/iacont-certificacao-digital-no-iti",
+          "description": "Le risposte dell'ITI sul certificato digitale.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-123-2006",
+          "description": "Lo Statuto della Microimpresa e il Simples Nacional.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-214-2025",
+          "description": "La legge della riforma tributaria sui consumi: IBS, CBS e Imposto Seletivo.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Orientação do eSocial",
+          "url": "https://www.gov.br/esocial/pt-br/documentacao-tecnica/manuais/mos-s-1-3-consolidada-ate-a-no-s-1-3-11-2026-retificada.pdf",
+          "link": "https://go.mymarketing.click/iacont-manual-de-orientacao-do-esocial",
+          "description": "Il manuale di eSocial per paghe ed eventi di lavoro.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iacont-mei-perguntas-frequentes",
+          "description": "Le risposte ufficiali sul microimprenditore individuale.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Procuração eletrônica no e-CAC",
+          "url": "https://www.gov.br/pt-br/servicos/cadastrar-ou-cancelar-procuracao-para-acesso-ao-e-cac",
+          "link": "https://go.mymarketing.click/iacont-procuracao-eletronica-no-e-cac",
+          "description": "Come il cliente conferisce una procura allo studio senza consegnare il certificato digitale.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iacont-tabelas-do-imposto-de-renda-2026",
+          "description": "Le tabelle IRPF dell'anno, sul sito della Receita Federal.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Truffe ai danni dei contabili",
+      "items": [
+        {
+          "name": "CFC: golpes com a Decore",
+          "url": "https://cfc.org.br/noticias/nao-caia-no-golpe-saiba-como-a-decore-tem-sido-utilizada-em-golpes-para-contadores/",
+          "link": "https://go.mymarketing.click/iacont-cfc-golpes-com-a-decore",
+          "description": "L'avviso del CFC sulle truffe che usano Decore contro i contabili.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Protezione dei dati",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iacont-lgpd",
+          "description": "La Lei Geral de Proteção de Dados, nel testo consolidato del Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iacont-anpd",
+          "description": "La Autoridade Nacional de Proteção de Dados, con guide e regolamenti della LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Libro e kit",
+      "items": [
+        {
+          "name": "IA na contabilidade (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-livro",
+          "description": "Il volume 8 della serie O Novo Básico, con i compiti della professione svolti con vera IA e ogni fatto con la sua fonte.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade/kit",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-o-kit-online",
+          "description": "I prompt pronti, le liste di controllo e le fonti del libro, aperti sul sito.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

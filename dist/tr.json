@@ -1,0 +1,344 @@
+{
+  "slug": "awesome-ia-contabilidade",
+  "language": "tr",
+  "title": "Awesome IA na contabilidade",
+  "description": "Muhasebeciler için yapay zekâ: asistanlar, gizlilik, CFC normları ve kontrol için Receita, eSocial ve Simples kaynakları.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Yapay zeka asistanları",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iacont-chatgpt",
+          "description": "OpenAI'ın asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iacont-claude",
+          "description": "Anthropic'in asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iacont-copilot",
+          "description": "Microsoft'un asistanı, Windows ve Office içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iacont-gemini",
+          "description": "Google'ın asistanı, Gmail ve Google Docs içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Yapay zekalarda gizlilik",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iacont-anthropic-onde-mudar-o-treino",
+          "description": "Claude'daki sohbetlerinizin model eğitiminde kullanılmasını nasıl engelleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iacont-google-atividade-do-gemini",
+          "description": "Gemini'nin etkinlik geçmişini nasıl kapatabileceğiniz ve bunun neyi değiştirdiği.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iacont-microsoft-controles-de-privacidad",
+          "description": "Copilot'un gizlilik ve eğitim denetimlerinin nerede olduğu.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iacont-openai-controles-de-dados",
+          "description": "ChatGPT'deki sohbetlerinizin model eğitiminde kullanılmasını nasıl engelleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iacont-whatsapp-privacidade",
+          "description": "WhatsApp'ın gizlilik konusunda ne dediği, Meta AI ile konuşulduğunda da dahil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-cfc",
+      "title": "Meslek normları",
+      "items": [
+        {
+          "name": "CFC e COAF",
+          "url": "https://cfc.org.br/coaf/",
+          "link": "https://go.mymarketing.click/iacont-cfc-e-coaf",
+          "description": "CFC'nin COAF'a yapılan bildirimlerle ilgili sayfası.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "NBC PG 01, o Código de Ética",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.pdf",
+          "link": "https://go.mymarketing.click/iacont-nbc-pg-01-o-codigo-de-etica",
+          "description": "Muhasebecinin Mesleki Etik Kuralları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CFC 1.640/2021",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1640.pdf",
+          "link": "https://go.mymarketing.click/iacont-resolucao-cfc-1-640-2021",
+          "description": "CFC'nin muhasebeciler için kara para aklamanın önlenmesine dair kuralları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "Kontrol için resmi kaynaklar",
+      "items": [
+        {
+          "name": "Agenda Tributária",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro",
+          "link": "https://go.mymarketing.click/iacont-agenda-tributaria",
+          "description": "Ayın süreleri, Receita Federal tarafından yayımlanmıştır.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Certificação digital no ITI",
+          "url": "https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/certificacao-digital",
+          "link": "https://go.mymarketing.click/iacont-certificacao-digital-no-iti",
+          "description": "ITI'nin dijital sertifika hakkındaki yanıtları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-123-2006",
+          "description": "Mikro İşletme Statüsü ve Simples Nacional.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iacont-lei-complementar-214-2025",
+          "description": "Tüketimde vergi reformu yasası: IBS, CBS ve Seçici Vergi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Orientação do eSocial",
+          "url": "https://www.gov.br/esocial/pt-br/documentacao-tecnica/manuais/mos-s-1-3-consolidada-ate-a-no-s-1-3-11-2026-retificada.pdf",
+          "link": "https://go.mymarketing.click/iacont-manual-de-orientacao-do-esocial",
+          "description": "Bordro ve işçilik olayları için eSocial kılavuzu.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iacont-mei-perguntas-frequentes",
+          "description": "Bireysel mikro girişimci hakkındaki resmi yanıtlar.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Procuração eletrônica no e-CAC",
+          "url": "https://www.gov.br/pt-br/servicos/cadastrar-ou-cancelar-procuracao-para-acesso-ao-e-cac",
+          "link": "https://go.mymarketing.click/iacont-procuracao-eletronica-no-e-cac",
+          "description": "Müşterinin dijital sertifikasını teslim etmeden büroya vekalet vermesi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iacont-tabelas-do-imposto-de-renda-2026",
+          "description": "Yılın IRPF tabloları, Receita Federal'den.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Muhasebecilere yönelik dolandırıcılıklar",
+      "items": [
+        {
+          "name": "CFC: golpes com a Decore",
+          "url": "https://cfc.org.br/noticias/nao-caia-no-golpe-saiba-como-a-decore-tem-sido-utilizada-em-golpes-para-contadores/",
+          "link": "https://go.mymarketing.click/iacont-cfc-golpes-com-a-decore",
+          "description": "CFC'nin, muhasebecilere karşı Decore kullanan dolandırıcılıklara dair uyarısı.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Veri koruma",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iacont-lgpd",
+          "description": "Planalto'nun derlenmiş metnindeki Genel Veri Koruma Kanunu.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iacont-anpd",
+          "description": "LGPD'nin rehberleri ve yönetmelikleriyle Ulusal Veri Koruma Otoritesi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Kitap ve set",
+      "items": [
+        {
+          "name": "IA na contabilidade (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-livro",
+          "description": "O Novo Básico serisinin 8. cildi; gerçek yapay zekâ araçlarıyla yapılan meslek görevleri ve her bilginin kaynağıyla birlikte.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade/kit",
+          "link": "https://go.mymarketing.click/iacont-ia-na-contabilidade-o-kit-online",
+          "description": "Hazır istemler, kontrol listeleri ve kitabın kaynakları, sitede açık olarak.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
